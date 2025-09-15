@@ -1,5 +1,6 @@
 # BMI-Calculator
-Development of the Gradio Multi-Tab Health Calculator App  Unit selection, weight, height, date, classification, and visual indicator are all included in the BMI calculator.  
+Development of the Gradio Multi-Tab Health Calculator App  
+**BMI Calculator: **Unit selection, weight, height, date, classification, and visual indicator  
 **Calculator for Daily Metabolic Rate:**  Age, gender, height, weight, degree of activity, and the Harris-Benedict equation are all inputs.  
 **Food Tracker:** Daily calorie intake computation, daily total display, user-friendly interface.
 
