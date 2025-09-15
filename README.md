@@ -4,6 +4,8 @@ Development of the Gradio Multi-Tab Health Calculator App
 **Calculator for Daily Metabolic Rate:**  Age, gender, height, weight, degree of activity, and the Harris-Benedict equation are all inputs.  
 **Food Tracker:** Daily calorie intake computation, daily total display, user-friendly interface.
 
+Google Colab Code: https://colab.research.google.com/drive/1VkONj7T_bKO65Nx7ftjYaiJ8OTb0nFJC?usp=sharing 
+
 This project uses the Gradio framework to create a health management application in Python.  The app's simplified multi-tab interface combines three key health functions: recording food intake, estimating daily metabolic rate, and calculating body mass index.  Matplotlib for visualization and pandas for data administration are examples of supporting libraries.  
 Users can enter their height and weight in various units on the BMI Calculator tab. They can also choose to include a date entry to chart their progress.  Based on recognized BMI bands, each result is color-coded and classified as underweight, normal, overweight, or obese.  Additionally, the system keeps track of each user's BMI computations, which are shown in a time-series graph to show patterns over time.
 
